@@ -4,6 +4,6 @@ class CanvasTest extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(width: 200,height: 200,color: Colors.red,child: Center(child: Text("TEST FUNC"),),);
+    return Container(width: 200,height: 200,color: Colors.amber,child: Center(child: Text("TEST FUN"),),);
   }
 }
